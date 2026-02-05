@@ -13,12 +13,6 @@ The analysis is presented in an interactive Power BI dashboard and a PDF export 
 - Power BI (Power Query, DAX, Data Modelling)
 - (Optional) Excel/CSV for raw data
 
-## Key Metrics (KPIs)
-- **Total Sales**
-- **Total Orders**
-- **Total Items Sold**
-- **Average Order Value (AOV)**
-
 ## Key Insights
 - Electronics generated the highest revenue, indicating higher-priced purchases.
 - Beauty and Clothing showed strong unit sales, suggesting higher volume demand.
@@ -28,11 +22,3 @@ The analysis is presented in an interactive Power BI dashboard and a PDF export 
 ## 📄 Dashboard (PDF)
 View the Power BI dashboard export here:  
 [Download Dashboard PDF](Retail_Sales_Dashboard.pdf)
-
-## Files
-📄 **Dashboard PDF:** `dashboard/Retail_Sales_Dashboard.pdf`
-
-
-## How to View
-- Download and open the PDF from the `dashboard/` folder.
-- (Optional) Open the PBIX file in Power BI Desktop to interact with the report.
