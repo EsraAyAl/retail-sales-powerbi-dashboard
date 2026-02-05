@@ -25,8 +25,9 @@ The analysis is presented in an interactive Power BI dashboard and a PDF export 
 - Gender-based charts reveal differences in category preference.
 - Sales trend analysis highlights seasonal fluctuations across months.
 
-## Dashboard Preview
-![Dashboard Preview](images/dashboard-preview.png)
+## 📄 Dashboard (PDF)
+View the Power BI dashboard export here:  
+[Download Dashboard PDF](Retail_Sales_Dashboard.pdf)
 
 ## Files
 📄 **Dashboard PDF:** `dashboard/Retail_Sales_Dashboard.pdf`
